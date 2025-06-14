@@ -15,6 +15,12 @@ The preferred way to run these notebooks is through a public cloud service calle
 </p>
 --->
 
+<p align="center">
+  <a href="https://mybinder.org/v2/gh/ianna/2025-06-20-hsf-iris-hep-uproot-awkward-tutorial/main?urlpath=lab/tree/uproot-awkward-tutorial.ipynb">
+    <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
+  </a>
+</p>
+
 Note that Binder may take a minute or two to start up.
 
 ## Running everything on your own computer
