@@ -22,3 +22,4 @@ dependencies:
   - vector==1.6.2
   - particle==0.25.4
   - awkward-pandas==2023.8.0
+  - fsspec-xrootd==v0.5.1
