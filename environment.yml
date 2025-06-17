@@ -24,3 +24,4 @@ dependencies:
   - awkward-pandas==2023.8.0
   - fsspec-xrootd==0.5.1
   - aiohttp==3.12.13
+  - skhep_testdata==0.5.4
