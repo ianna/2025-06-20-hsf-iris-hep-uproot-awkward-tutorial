@@ -22,5 +22,5 @@ This course will not cover installation of the software, but everything can be i
 
 ## Browsing the material online
 
-The cells of the JupyterLab notebooks are deliberately unevaluated—we will discover their output during the tutorial. However, if you're coming here after the event and want to look up how we did something, see the [evaluated](evaluated) directory for an evaluated version of the notebook.
+The cells of the JupyterLab notebooks are deliberately unevaluated—we will discover their output during the tutorial. However, if you're coming here after the event and want to look up how we did something, see the [evaluated](uproot-awkward-tutorial-evaluated.ipynb) version of the notebook.
 
