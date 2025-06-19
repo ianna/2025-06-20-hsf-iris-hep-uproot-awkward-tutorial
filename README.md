@@ -7,16 +7,9 @@ Tutorials for the HSF/IRIS-HEP Software Basics Training at CERN: Uproot Awkward 
 Run the JupyterLab code with us, altering examples and asking "what if" questions along the way.
 
 The preferred way to run these notebooks is through a public cloud service called Binder:
-<!---
-<p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-07-06-pyhep-uproot-awkward-tutorial/v1.2?urlpath=lab/tree/uproot-awkward-tutorial.ipynb">
-    <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
-  </a>
-</p>
---->
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/ianna/2025-06-20-hsf-iris-hep-uproot-awkward-tutorial/v0.1.0?urlpath=lab/tree/uproot-awkward-tutorial.ipynb">
+  <a href="https://mybinder.org/v2/gh/ianna/2025-06-20-hsf-iris-hep-uproot-awkward-tutorial/v0.2.0?urlpath=lab/tree/uproot-awkward-tutorial.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
